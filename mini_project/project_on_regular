@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+cat email.txt|grep [com]|grep [[:alum:]]@[[:lower:]]|grep .com >> email_com.txt
+
+

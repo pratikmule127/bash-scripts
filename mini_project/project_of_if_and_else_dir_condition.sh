@@ -6,7 +6,7 @@ read dir
 
 if [ -d "$dir" ]
 then
-	echo "dir hai yaha pe"
+	echo "It's a Directory"
 else 
-	echo "dir nahi hai"
+	echo "It's not  Directoy"
 fi

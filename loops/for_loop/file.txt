@@ -1,0 +1,3 @@
+google.com 8.8.8.8
+facebook.com 157.240.20.35
+yahoo.com 98.137.11.163
