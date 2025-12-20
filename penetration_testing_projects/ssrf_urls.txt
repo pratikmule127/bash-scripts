@@ -1,0 +1,5 @@
+# SSRF Testing URLs
+https://testsite.com/fetch?url=http://127.0.0.1
+https://example.com/api?image=http://localhost/admin
+https://demo.site/proxy?target=http://169.254.169.254
+https://vulnerable.site/download?file=http://internal.service

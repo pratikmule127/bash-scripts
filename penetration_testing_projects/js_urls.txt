@@ -1,0 +1,9 @@
+# JavaScript File URLs
+https://example.com/assets/app.js
+https://example.com/static/main.js
+https://cdn.testsite.com/js/utils.js
+https://demo.site/js/config.js
+
+# Non-JS (should be ignored)
+https://example.com/data.json
+https://example.com/view.jsp

@@ -1,0 +1,5 @@
+# XSS Testing URLs
+https://testsite.com/search?q=test
+https://example.com/page.php?id=123
+https://demo.site/login?next=/home
+https://vulnerable.site/view?name=hello
